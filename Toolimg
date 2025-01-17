@@ -1,0 +1,22 @@
+<tools>
+  <tool>
+    <name>Image Merger</name>
+    <description>Combine multiple images into a single file effortlessly, perfect for creating collages, presentations, or sharing grouped content.</description>
+  </tool>
+  <tool>
+    <name>Image Compressor</name>
+    <description>Optimize your images (JPG, PNG, WEBP) for web and storage without compromising quality. Reduce file sizes while maintaining visual integrity.</description>
+  </tool>
+  <tool>
+    <name>PDF to JPG Converter</name>
+    <description>Convert PDF documents into high-quality JPG images for easier sharing, editing, or printing.</description>
+  </tool>
+  <tool>
+    <name>JPG to PDF Converter</name>
+    <description>Quickly transform JPG images into PDFs, ideal for creating presentations, portfolios, or compact documents.</description>
+  </tool>
+  <tool>
+    <name>PDF Compressor</name>
+    <description>Reduce the size of large PDF files to make them easier to store, send, or upload.</description>
+  </tool>
+</tools>
